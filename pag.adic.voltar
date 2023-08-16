@@ -45,12 +45,9 @@
     </header>
     
     <nav>
-      <a href="desenvoativ.html">Voltar</a>
+      <a href="desenvoativ.html"><button>voltar</button></a>
     </nav>
-    <header>
-      <h1>Inicio</h1>
-    </header>
-
+   
     <div class="content">
       <h2>Conheça o Parque das Esculturas Francisco Brennand!</h2>
       <p>
